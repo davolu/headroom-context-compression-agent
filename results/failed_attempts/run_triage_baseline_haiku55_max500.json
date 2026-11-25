@@ -1,0 +1,36 @@
+{
+ "question": "Checkout started failing on the night of 24 Nov 2026. Using the tools, find: (1) the error code, (2) the exact timestamp of the first error, (3) how many orders have status payment_failed, (4) which setting changed in the last deploy, and from what value to what value, (5) who must be tagged about that change. Answer as a numbered list.",
+ "base_url": "http://127.0.0.1:8788",
+ "model": "claude-haiku-5-5",
+ "method": "fixed tool-output replay",
+ "calls": [
+  {
+   "call": 1,
+   "latency_s": 2.93,
+   "stop_reason": "max_tokens",
+   "tool_calls": [],
+   "cache_creation": {
+    "ephemeral_1h_input_tokens": 0,
+    "ephemeral_5m_input_tokens": 184869
+   },
+   "cache_creation_input_tokens": 184869,
+   "cache_read_input_tokens": 0,
+   "inference_geo": "global",
+   "input_tokens": 2,
+   "output_tokens": 500,
+   "output_tokens_details": {
+    "thinking_tokens": 500
+   },
+   "server_tool_use": null,
+   "service_tier": "standard",
+   "speed": "standard"
+  }
+ ],
+ "answer": "",
+ "totals": {
+  "input_tokens": 2,
+  "output_tokens": 500,
+  "cache_read_input_tokens": 0,
+  "cache_creation_input_tokens": 184869
+ }
+}

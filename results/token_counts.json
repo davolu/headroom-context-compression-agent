@@ -1,0 +1,37 @@
+[
+ {
+  "type": "log",
+  "file": "checkout.log",
+  "chars": 255242,
+  "provider_tokens": 133333,
+  "provider_tokens_compressed": 4165
+ },
+ {
+  "type": "json",
+  "file": "orders.json",
+  "chars": 94147,
+  "provider_tokens": 49132,
+  "provider_tokens_compressed": 19663
+ },
+ {
+  "type": "diff",
+  "file": "last_deploy.diff",
+  "chars": 645,
+  "provider_tokens": 338,
+  "provider_tokens_compressed": 338
+ },
+ {
+  "type": "yaml",
+  "file": "config.yaml",
+  "chars": 1121,
+  "provider_tokens": 495,
+  "provider_tokens_compressed": 485
+ },
+ {
+  "type": "prose",
+  "file": "oncall_notes.txt",
+  "chars": 1851,
+  "provider_tokens": 587,
+  "provider_tokens_compressed": 587
+ }
+]

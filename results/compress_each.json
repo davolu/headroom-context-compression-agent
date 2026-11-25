@@ -1,0 +1,57 @@
+[
+ {
+  "type": "log",
+  "file": "checkout.log",
+  "tokens_before": 100929,
+  "tokens_after": 3091,
+  "saved_pct": 96.9,
+  "transforms": [
+   "router:log:0.03"
+  ],
+  "ms": 559.3
+ },
+ {
+  "type": "json",
+  "file": "orders.json",
+  "tokens_before": 36775,
+  "tokens_after": 14631,
+  "saved_pct": 60.2,
+  "transforms": [
+   "router:smart_crusher:0.31"
+  ],
+  "ms": 604.8
+ },
+ {
+  "type": "diff",
+  "file": "last_deploy.diff",
+  "tokens_before": 241,
+  "tokens_after": 241,
+  "saved_pct": 0.0,
+  "transforms": [
+   "(passthrough)"
+  ],
+  "ms": 0.6
+ },
+ {
+  "type": "yaml",
+  "file": "config.yaml",
+  "tokens_before": 341,
+  "tokens_after": 334,
+  "saved_pct": 2.1,
+  "transforms": [
+   "router:config:0.98"
+  ],
+  "ms": 9.0
+ },
+ {
+  "type": "prose",
+  "file": "oncall_notes.txt",
+  "tokens_before": 401,
+  "tokens_after": 401,
+  "saved_pct": 0.0,
+  "transforms": [
+   "(passthrough)"
+  ],
+  "ms": 467.8
+ }
+]
