@@ -1,0 +1,54 @@
+[
+ {
+  "question": "triage",
+  "mode": "baseline",
+  "calls": 2,
+  "billed_input_tokens": 161299,
+  "output_tokens": 259,
+  "usd_list_price": 0.2027,
+  "correct": 7,
+  "of": 7,
+  "missed": [],
+  "seconds": 4.7
+ },
+ {
+  "question": "triage",
+  "mode": "compressed",
+  "calls": 2,
+  "billed_input_tokens": 24046,
+  "output_tokens": 289,
+  "usd_list_price": 0.0313,
+  "correct": 6,
+  "of": 7,
+  "missed": [
+   "failed orders"
+  ],
+  "seconds": 19.2
+ },
+ {
+  "question": "detail",
+  "mode": "baseline",
+  "calls": 2,
+  "billed_input_tokens": 114747,
+  "output_tokens": 218,
+  "usd_list_price": 0.1443,
+  "correct": 1,
+  "of": 2,
+  "missed": [
+   "error count"
+  ],
+  "seconds": 4.6
+ },
+ {
+  "question": "detail",
+  "mode": "compressed",
+  "calls": 2,
+  "billed_input_tokens": 121610,
+  "output_tokens": 807,
+  "usd_list_price": 0.1216,
+  "correct": 2,
+  "of": 2,
+  "missed": [],
+  "seconds": 26.5
+ }
+]

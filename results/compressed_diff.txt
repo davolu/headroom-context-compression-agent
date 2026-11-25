@@ -1,0 +1,21 @@
+diff --git a/config/payments.yaml b/config/payments.yaml
+index 3f1c2aa..9b7e410 100644
+--- a/config/payments.yaml
++++ b/config/payments.yaml
+@@ -8,11 +8,11 @@ payments:
+   provider: paystackish-sandbox
+   currency: NGN
+   retries: 2
+-  gateway_timeout_ms: 5000
++  gateway_timeout_ms: 800
+   webhook_path: /hooks/payments
+   idempotency: true
+diff --git a/web/src/banner.txt b/web/src/banner.txt
+index 11aa2c3..44bb5d1 100644
+--- a/web/src/banner.txt
++++ b/web/src/banner.txt
+@@ -1,3 +1,3 @@
+-Free delivery on orders above 50,000 NGN
++Free delivery on orders above 45,000 NGN this week
+ Follow us for new arrivals
+ Questions? Use the chat button

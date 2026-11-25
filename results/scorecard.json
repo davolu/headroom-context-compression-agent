@@ -1,0 +1,46 @@
+[
+ {
+  "question": "triage",
+  "mode": "baseline",
+  "model": "claude-haiku-5-5",
+  "prompt_tokens": 184871,
+  "output_tokens": 1674,
+  "usd_list": 0.0134,
+  "correct": "7/7",
+  "missed": [],
+  "seconds": 6.2
+ },
+ {
+  "question": "triage",
+  "mode": "compressed",
+  "model": "claude-haiku-5-5",
+  "prompt_tokens": 26357,
+  "output_tokens": 1351,
+  "usd_list": 0.0009,
+  "correct": "7/7",
+  "missed": [],
+  "seconds": 5.5
+ },
+ {
+  "question": "detail",
+  "mode": "baseline",
+  "model": "claude-haiku-5-5",
+  "prompt_tokens": 134091,
+  "output_tokens": 1406,
+  "usd_list": 0.0102,
+  "correct": "2/2",
+  "missed": [],
+  "seconds": 6.4
+ },
+ {
+  "question": "detail",
+  "mode": "compressed",
+  "model": "claude-haiku-5-5",
+  "prompt_tokens": 141611,
+  "output_tokens": 1526,
+  "usd_list": 0.0723,
+  "correct": "2/2",
+  "missed": [],
+  "seconds": 7.3
+ }
+]

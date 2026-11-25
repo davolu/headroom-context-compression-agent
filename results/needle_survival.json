@@ -1,0 +1,182 @@
+[
+ {
+  "seed": 1,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 56,
+  "failed_total": 56,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 2,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 63,
+  "failed_total": 63,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 3,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 50,
+  "failed_total": 50,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 4,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 73,
+  "failed_total": 73,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 5,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 64,
+  "failed_total": 64,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 6,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 62,
+  "failed_total": 62,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 7,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 68,
+  "failed_total": 68,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 8,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 57,
+  "failed_total": 57,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 9,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 56,
+  "failed_total": 56,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 10,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 54,
+  "failed_total": 54,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 11,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 59,
+  "failed_total": 59,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 12,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 62,
+  "failed_total": 62,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 13,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 59,
+  "failed_total": 59,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 14,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 57,
+  "failed_total": 57,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 15,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 66,
+  "failed_total": 66,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 16,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 62,
+  "failed_total": 62,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 17,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 57,
+  "failed_total": 57,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 18,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 61,
+  "failed_total": 61,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 19,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 74,
+  "failed_total": 74,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ },
+ {
+  "seed": 20,
+  "needles_kept": 6,
+  "needles_total": 6,
+  "failed_ids_visible": 69,
+  "failed_total": 69,
+  "error_code_in_log": true,
+  "first_error_ts_in_log": true
+ }
+]

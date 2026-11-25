@@ -1,0 +1,4 @@
+{
+ "triage": "Checkout started failing on the night of 24 Nov 2026. Using the tools, find: (1) the error code, (2) the exact timestamp of the first error, (3) how many orders have status payment_failed, (4) which setting changed in the last deploy, and from what value to what value, (5) who must be tagged about that change. Answer as a numbered list.",
+ "detail": "In the checkout log, what is the request ID of the error logged at 02:22:09 on 24 Nov 2026, and how many E_PAY_TIMEOUT_504 error lines are there in total? Answer with just the request ID and the count."
+}

@@ -1,0 +1,51 @@
+# Lagos Loft Goods: service configuration (synthetic demo data)
+# Edit with care. Comments below explain each block.
+
+# ---- cart ----
+# cart settings tuned for the November sale.
+cart:
+  enabled: true
+  cache_ttl_s: 300
+  max_workers: 13
+
+# ---- inventory ----
+# inventory settings tuned for the November sale.
+inventory:
+  enabled: true
+  cache_ttl_s: 30
+  max_workers: 2
+
+# ---- search ----
+# search settings tuned for the November sale.
+search:
+... (repeats 4 lines from 7 lines back)
+# ---- email ----
+# email settings tuned for the November sale.
+email:
+  enabled: true
+  cache_ttl_s: 300
+  max_workers: 4
+
+# ---- images ----
+# images settings tuned for the November sale.
+images:
+  enabled: true
+  cache_ttl_s: 60
+  max_workers: 9
+
+# ---- analytics ----
+# analytics settings tuned for the November sale.
+analytics:
+  enabled: true
+  cache_ttl_s: 120
+  max_workers: 12
+
+# ---- payments ----
+# Gateway timeout in milliseconds. Changed in the last deploy.
+payments:
+  provider: paystackish-sandbox
+  currency: NGN
+  retries: 2
+  gateway_timeout_ms: 800
+  webhook_path: /hooks/payments
+  idempotency: true
